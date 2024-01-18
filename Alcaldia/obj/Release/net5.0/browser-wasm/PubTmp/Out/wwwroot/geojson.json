@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.218042141114424,-17.780079101234563]
+    },
+    "properties": {
+      "name": "Quinta Municipal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -63.202788520181784, -17.778976836321817 ]
+    },
+    "properties": {
+      "name": "Las bandidas mutualista"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -63.2133654197884, -17.78562600417274 ]
+    },
+    "properties": {
+      "name": "Las malcriadas Roca y Coronado"
+    }
+  }
+]
